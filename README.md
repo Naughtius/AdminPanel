@@ -1,4 +1,4 @@
-# admin
+# Часть админки
 
 nodejs vesrion - 17.4.0
 
